@@ -799,13 +799,16 @@ else:
             result = mod.recommend(user_email)
             print("mod.recommend returned:", result)
             _it = []
+            re = []
             if result is None:
+                re = ['palak paneer']
                 st.error("No recommendation data available. Please check your input or the recommendation logic.")
             else:
                 _it = result[0]
+                re = result[1]
 
             _it = _it[:25] if len(_it) >= 25 else _it
-            recipy_recommend(user_email, _it, mod.recommend(user_email)[1])
+            recipy_recommend(user_email, _it, re)
         # --------------------- Dashboard Page ---------------------
         elif st.session_state.current_page == "dashboard":
             st.title("Your Diet Dashboard")
