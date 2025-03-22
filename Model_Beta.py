@@ -101,7 +101,7 @@ def fetch_data_as_2d_array(selected_columns,colind):
     
     return selected_columns, data_array  # Return selected column names and filtered data
 
-selected_cols = ['email','age','height','weight','bmi','sleep_hours','meals_per_day','diet_preference']  # Define columns you need
+selected_cols = ['email','age','height','weight','bmi','sleep_hours','meals_per_day']  # Define columns you need
 fields, data = fetch_data_as_2d_array(selected_cols,4)
 
 print(data[0])
