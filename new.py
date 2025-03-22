@@ -41,7 +41,6 @@ firebase_config = {
     'storageBucket': st.secrets["firebase"]["storageBucket"],
     'messagingSenderId': st.secrets["firebase"]["messagingSenderId"],
     'appId': st.secrets["firebase"]["appId"],
-    'measurementId': st.secrets["firebase"]["measurementId"],
     'databaseURL': st.secrets["firebase"]["databaseURL"],
 }
 
