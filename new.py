@@ -798,6 +798,7 @@ else:
             user_email = st.session_state.user_info['email']
             result = mod.recommend(user_email)
             print("mod.recommend returned:", result)
+            _it = []
             if result is None:
                 st.error("No recommendation data available. Please check your input or the recommendation logic.")
             else:
