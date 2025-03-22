@@ -802,6 +802,7 @@ else:
             re = []
             if result is None:
                 re = ['palak paneer']
+                _it = ['cheese','curd','milk','Potatoes','Tomatoes','Onions']
                 st.error("No recommendation data available. Please check your input or the recommendation logic.")
             else:
                 _it = result[0]
