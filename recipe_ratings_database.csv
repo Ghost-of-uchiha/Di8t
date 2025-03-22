@@ -1,0 +1,49 @@
+user_id,recipe_id,recipe_name,rating,timestamp
+an@gmail.com,637908,Chicken and Miso Ramen Noodle Soup,4,2025-03-21 18:30:01.913000+00:00
+an@gmail.com,648502,Japanese Steamed Sweetcorn Bun,4,2025-03-21 18:30:01.913000+00:00
+an@gmail.com,663669,Tonkatsu,5,2025-03-21 18:30:01.913000+00:00
+bbb@gmail.com,1487863,Baked Macaroni and Cheese,3,2025-03-21 23:31:58.337000+00:00
+bbb@gmail.com,633672,Baked Macaroni With Bolognese Sauce,3,2025-03-21 23:31:58.379000+00:00
+bbb@gmail.com,638389,Chicken Tikka Masala Indian,3,2025-03-21 23:31:58.451000+00:00
+bbb@gmail.com,640621,Creamy Chicken Tikka Masala,4,2025-03-21 23:31:58.486000+00:00
+bbb@gmail.com,641908,Easy Chicken Tikka Masala,3,2025-03-21 23:31:58.417000+00:00
+bbb@gmail.com,643634,Macaroni with Fresh Tomatoes and Beans,3,2025-03-21 23:31:58.294000+00:00
+bbb@gmail.com,643642,"Macaroni Pasta with Fresh Tomatoes, Zucchini and Artichokes",3,2025-03-21 23:31:58.194000+00:00
+bbb@gmail.com,648155,Italian Kale and Potato Soup,3,2025-03-22 07:51:15.749000+00:00
+bbb@gmail.com,650546,Macaroni and Cheese Gratin,3,2025-03-21 23:31:58.243000+00:00
+bbb@gmail.com,658967,Saffron Chicken Tikka,3,2025-03-21 23:31:58.517000+00:00
+bhavesh nayak,638722,Chinese Style Stewed Meatballs,2,2025-03-22 00:03:39.043000+00:00
+bhavesh nayak,643808,Fried Stuffed Wontons with Healthy Dark Chocolate,2,2025-03-22 00:03:39.043000+00:00
+blastoise@gmail.com,648279,Italian Tuna Pasta,3,2025-03-21 18:25:20.689000+00:00
+charizard@gmail.com,632983,Assam Fish Curry,5,2025-03-21 18:23:37.258000+00:00
+charizard@gmail.com,642941,Fish Fillet In Creamy Coconut Curry,4,2025-03-21 18:23:37.258000+00:00
+chika@gmail.com,649040,Korean Chicken Stew,4,2025-03-21 18:26:39.659000+00:00
+chika@gmail.com,649045,Korean Dak Juk (Chicken Porridge),4,2025-03-21 18:26:44.694000+00:00
+kakshixguy099@gmail.com,638389,Chicken Tikka Masala Indian,5,2025-03-21 18:43:07.324000+00:00
+kakshixguy099@gmail.com,644167,Garam Masala Pork Chops with Mint Yogurt and Spiced Couscous,3,2025-03-21 18:43:07.324000+00:00
+kakshixguy099@gmail.com,650673,Malay-Style Red Chicken Curry,3,2025-03-21 18:43:07.324000+00:00
+kakshixguy099@gmail.com,651726,Green Curry Chicken Salad,2,2025-03-21 18:43:07.324000+00:00
+,,,0,
+lagoon@gmail.com,157459,Spicy Coconut Chicken Curry,4,2025-03-21 18:28:10.396000+00:00
+lagoon@gmail.com,638389,Chicken Tikka Masala Indian,5,2025-03-21 18:28:10.396000+00:00
+lagoon@gmail.com,641145,Curry-Braised Chicken,4,2025-03-21 18:28:10.396000+00:00
+lagoon@gmail.com,641904,Easy Chicken Tandoori,5,2025-03-21 18:28:10.396000+00:00
+lagoon@gmail.com,641908,Easy Chicken Tikka Masala,5,2025-03-21 18:28:10.396000+00:00
+lagoon@gmail.com,651726,Green Curry Chicken Salad,4,2025-03-21 18:28:10.396000+00:00
+lagoon@gmail.com,652834,My Chicken Korma,5,2025-03-21 18:28:10.396000+00:00
+maggie@gmail.com,638369,Korean Sweet n Sour Chicken,4,2025-03-21 18:31:03.067000+00:00
+maggie@gmail.com,649073,Korean Saewoo Bokkeumbap (Shrimp Fried Rice),5,2025-03-21 18:31:03.067000+00:00
+pika,650606,Madras Beef Curry,3,2025-03-21 18:06:08.266000+00:00
+pika,657095,Prawn Curry,2,2025-03-21 18:06:08.266000+00:00
+pika,658482,Roasted Acorn Squash Stuffed with spicy Biryani (Veg/vegan),3,2025-03-21 18:06:08.266000+00:00
+pika,661287,Spinach Chickpea - Palak Chana Rice,2,2025-03-21 18:06:08.266000+00:00
+pika,716364,Rice and Peas with Coconut Curry Mackerel,3,2025-03-21 18:06:08.266000+00:00
+pk@gmail.com,1697815,Easy Naan Bread with Garlic Butter,4,2025-03-22 06:46:46.850000+00:00
+pk@gmail.com,633650,Baked Indian Samosas,1,2025-03-22 06:46:46.850000+00:00
+pk@gmail.com,635601,Boiled Egg Curry,2,2025-03-22 06:46:46.850000+00:00
+pk@gmail.com,647876,Indian-Style Eggs On Toast,4,2025-03-22 06:46:46.850000+00:00
+pk@gmail.com,651337,Meatball Curry (Kofta Curry),3,2025-03-22 06:46:46.850000+00:00
+pk@gmail.com,769533,chettinad egg curry,1,2025-03-22 06:46:46.850000+00:00
+zzz@gamil.com,637391,Chai Pani’s Malabar Chicken Curry,4,2025-03-21 18:57:51.547000+00:00
+zzz@gamil.com,641908,Easy Chicken Tikka Masala,5,2025-03-21 18:57:51.547000+00:00
+zzz@gamil.com,646043,Gujarati Dry Mung Bean Curry,4,2025-03-21 18:57:51.547000+00:00

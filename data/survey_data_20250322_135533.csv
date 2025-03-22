@@ -1,0 +1,2 @@
+name,age,gender,height,weight,email,country,bmi,bmi_category,diet_pref,food_allergies,activity_level,fitness_goal,sleep_hours,work_life,lifestyle,meals_per_day,snacking,eating_out,budget_constraint,cooking_skill,cooking_time,health_conditions,additional_info
+ffs,30,Male,170,70,s@gmail.com,india,24.22,Normal weight,Vegetarian,[],"Sedentary (office job, little exercise)",Weight loss,7,Very stressful,[],3,Rarely snack,Rarely (few times a month),3000,Beginner,30,[],
