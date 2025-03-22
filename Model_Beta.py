@@ -140,7 +140,7 @@ def recommend(email):
     user_data = X_scaled[idx].reshape(1, -1)  # Use idx directly
     distances, indices = knn.kneighbors(user_data)
     indices_list = list(indices[0])
-    indices_list.pop(0)
+    #indices_list.pop(0)
     #Recipie
     #print("Indices of similar users:", indices[0])
     #print('users: ',data[indices[0][1]][0])
